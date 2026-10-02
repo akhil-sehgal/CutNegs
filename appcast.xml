@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>CutNegs Updates</title>
+    <link>https://cutnegs.com</link>
+    <description>Official CutNegs updates. No public releases are available yet.</description>
+    <language>en</language>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: vG2ErYAgaOFdQEF5T033Dl24C0znEOjxPSEn5e4yjD1jm2wC9XR9zcm+kPvGTL9R1bL0mIAfqWh5DIw0JvPrDA==
+length: 605
+-->
